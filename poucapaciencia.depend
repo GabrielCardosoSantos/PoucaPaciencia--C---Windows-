@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1444624120 source:c:\users\gabri\desktop\lab ii\poucapaciencia\paciencia.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"paciencia.h"
+
+1444621814 source:c:\users\gabri\desktop\lab ii\poucapaciencia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<time.h>
+	"paciencia.h"
+
+1444329011 c:\users\gabri\desktop\lab ii\poucapaciencia\paciencia.h
+
